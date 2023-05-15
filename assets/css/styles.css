@@ -1,0 +1,36 @@
+/* etiqueta HTML VA DIRECTAMENTE EL NOMBRE*/
+/* CLASES VA CON . ADELANTE*/
+/*ID VA CON # ADELANTE*/
+body{
+    background-color: rgb(240, 223, 186);
+    color:rgb(0, 0, 0)
+}
+
+#sobre{
+    text-align: center;
+    margin: auto;
+}
+li{
+    list-style-type: none;
+    margin-left: -3.5%;
+}
+
+.nombreperfil{
+    font-size: 4rem;
+}
+
+
+.video{
+    margin: 7rem 2rem 10rem 2rem
+}
+
+.mapa{
+    padding: 10%;
+    border: 2% solid rgb(236, 195, 195);
+}
+#sobre{
+    background-color: rgb(235, 181, 114);
+}
+.logoAP{
+    filter:invert()
+}
